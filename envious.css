@@ -1,0 +1,57 @@
+/* First and Last website that I am going to build for my socials and archive 
+*   @raddski - IG
+*   _radski - Discord
+*/
+
+html{
+    font-family: monospace;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+    font-size: 12pt;
+    cursor: cell;
+    
+}
+
+body {
+    margin: 0;
+    line-height: 2;
+    padding-left: 400px;
+}
+
+pre {
+    font-size: 12pt;
+    font-family: monospace;
+    color: white;
+    line-height: 1;
+    text-align: center;
+    padding-right: 400px;
+}
+
+a {
+    background-color: transparent;
+    color: green;
+    
+}
+
+a:active, a:hover {
+    outline: 0;
+}
+
+ul {
+    list-style: inside;
+}
+
+h2 { 
+    font-size: 20pt;
+}
+
+
+
+
+
+
+
+
+
+
+
