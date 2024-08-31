@@ -2,27 +2,32 @@
 *   @raddski - IG
 *   _radski - Discord
 */
+.container {
+    padding: 0;
+    margin: 0;
+    min-width: auto;
+    max-width: auto;
+    margin-left: auto;
+    margin-bottom: auto;
+    margin-right: auto;
+}
 
-html {
+html{
     font-family: monospace;
     -ms-text-size-adjust: 100%;
     -webkit-text-size-adjust: 100%;
     font-size: 12pt;
     cursor: cell;
     height: -webkit-fill-available;
-    height: 100%;
+    
     
 }
 
 body {
     display: flex;
     flex-direction: column;
-    margin: 0;
     line-height: 2;
-    padding-left: 400px;
-    height: 100vh;
     height: -webkit-fill-available;
-    height: 100%;
 }
 
 pre {
@@ -30,8 +35,10 @@ pre {
     font-family: monospace;
     color: white;
     line-height: 1;
+    margin-left: auto;
+    margin-right: auto;
     text-align: center;
-    padding-right: 400px;
+    
 }
 
 a {
@@ -51,6 +58,8 @@ ul {
 h2 { 
     font-size: 20pt;
 }
+
+    
 
 
 
